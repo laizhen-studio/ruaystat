@@ -1,8 +1,22 @@
 {
  "source": "https://www.glo.or.th",
- "updated": "2026-10-01T15:52:02.312Z",
- "count": 256,
+ "updated": "2026-10-16T13:38:58.208Z",
+ "count": 257,
  "draws": [
+  {
+   "date": "2026-10-16",
+   "first": "011781",
+   "front3": [
+    "392",
+    "402"
+   ],
+   "back3": [
+    "171",
+    "255"
+   ],
+   "last2": "48",
+   "pdf": "https://api.glo.or.th/utility/file/download/19b76165-a2a8-48ad-be3c-1d9cab30b4be"
+  },
   {
    "date": "2026-10-01",
    "first": "402701",
